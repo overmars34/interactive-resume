@@ -1,0 +1,70 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+.navbar, .progress-bar {
+  background-color: #062F4F;
+}
+
+.nlink {
+  color: #F4F4F4;
+}
+
+ .nlink:hover {
+  color: yellow;
+}
+
+.jumbotron {
+  background-color: #F4DECB;
+}
+
+body {
+  position: relative;
+  padding-top: 3rem;
+  margin-bottom: 3rem;
+  color: ##1A2930;
+  background-color: #F5F5F5;
+}
+
+.words {
+  color: #000000;
+}
+
+h3 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.alink {
+  color: #1A2930;
+}
+
+.alink:hover {
+  color: black;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.date {
+  text-align: right;
+}
+
+.skillname {
+  vertical-align: text-bottom;
+}
+
+.desc {
+  height: 160px;
+}
+
+.featurette-divider {
+  margin: 3rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+.progress {
+  height: 25px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
